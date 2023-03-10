@@ -4,3 +4,4 @@ storage: none
 framework: net6.0
 nuget FSharp.Core
 nuget Newtonsoft.Json
+nuget Argu
